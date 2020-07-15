@@ -1,0 +1,101 @@
+
+
+body{
+	background-image: url(book.jpg );
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-size: 1600px 850px  ;
+	
+}
+.formulaire2 {
+	padding-top: 10px ; 
+	 border-radius: 20px ; 
+	width: 320px;
+	height: 32%;
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+	top: 50%;
+	left :50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding-bottom: 25px ; 
+}
+.formulaire2 input {
+	border:3px solid #555; 
+	position: center ; 
+	padding-top: 2%;
+	padding-bottom :2%;
+
+	margin: 15px  15px  15px 80px ;
+	background: rgba(0,0,0,0.2);
+	color:#fff ;  
+
+}
+
+::placeholder {
+	padding-left: 2px;
+
+  color: #FFF;
+ 
+}
+.b{
+	text-align: center;
+	
+}
+.b button {
+	 background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 15px;
+  margin-right: 15px ; 
+  margin-top: 7px ;
+  border-radius: 20px ; 
+  cursor: pointer;
+
+}
+p {
+	text-align: center; 
+}
+.formulaire {
+	padding-top: 10px ; 
+	 border-radius: 20px ; 
+	width: 320px;
+	height: 50%;
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+	top: 50%;
+	left :50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding-bottom: 15px ; 
+}
+.formulaire input {
+	border:3px solid #555; 
+	position: center ; 
+	padding-top: 2%;
+	padding-bottom :2%;
+
+	margin: 15px  15px  15px 80px ;
+	background: rgba(0,0,0,0.2);
+	color:#fff ;  
+
+}
+.formulaire input {
+	
+	color: #fff ;
+
+}
+::placeholder {
+	padding-left: 2px;
+
+  color: #fff;
+ 
+}
